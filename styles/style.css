@@ -1,6 +1,5 @@
 body {
-    /*background: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467); */
-    background: url(https://images.unsplash.com/photo-1549439514-6b0d1fb10f70?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+    background: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/783242118360687.6087d2672d11b.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -27,7 +26,7 @@ h1 {
 }
 
 hr {
-    width: 400px;
+    width: 300px;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
