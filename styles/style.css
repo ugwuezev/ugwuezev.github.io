@@ -1,5 +1,9 @@
 body {
+<<<<<<< HEAD
     background: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/783242118360687.6087d2672d11b.jpg);
+=======
+    background: url(https://images.unsplash.com/photo-1570993492903-ba4c3088f100?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+>>>>>>> 5794fe75906c46d5ccd7ba7515755f0e9910f7df
     background-size: cover;
     background-position: center;
 }
